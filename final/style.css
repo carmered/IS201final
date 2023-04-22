@@ -1,0 +1,32 @@
+body{
+    font-family: helvetica;
+    font-size: 15px;
+    color: black;
+}
+li{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: normal;
+    font-size: 15px;
+}
+.album{
+    font-weight: bolder;
+    font-size: large;
+}
+.underline{
+    text-decoration: underline;
+}
+.homebg{
+    background-image: url('background.jpg');
+    background-size: 2000px 2000px;
+    padding: 20px;
+}
+.ital{
+    font-style: oblique;
+}
+.dir{
+    font-style: italic;
+}
+.hed{
+    background-color: palevioletred;
+    color: pink;
+}
